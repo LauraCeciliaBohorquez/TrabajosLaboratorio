@@ -1,0 +1,44 @@
+C:\Users\Juana\Desktop\LBohorquez\TPCalculadora\bin\Debug\TPCalculadora.exe.config
+C:\Users\Juana\Desktop\LBohorquez\TPCalculadora\obj\Debug\TPCalculadora.Form1.resources
+C:\Users\Juana\Desktop\LBohorquez\TPCalculadora\obj\Debug\TPCalculadora.Properties.Resources.resources
+C:\Users\Juana\Desktop\LBohorquez\TPCalculadora\obj\Debug\TPCalculadora.csproj.GenerateResource.Cache
+C:\Users\Juana\Desktop\LBohorquez\TPCalculadora\bin\Debug\TPCalculadora.exe
+C:\Users\Juana\Desktop\LBohorquez\TPCalculadora\bin\Debug\TPCalculadora.pdb
+C:\Users\Juana\Desktop\LBohorquez\TPCalculadora\obj\Debug\TPCalculadora.exe
+C:\Users\Juana\Desktop\LBohorquez\TPCalculadora\obj\Debug\TPCalculadora.pdb
+C:\Users\Cecilia\Desktop\Entrega\TP1\LcBohorquezLab\TPCalculadora\bin\Debug\TPCalculadora.exe.config
+C:\Users\Cecilia\Desktop\Entrega\TP1\LcBohorquezLab\TPCalculadora\obj\Debug\TPCalculadora.exe
+C:\Users\Cecilia\Desktop\Entrega\TP1\LcBohorquezLab\TPCalculadora\obj\Debug\TPCalculadora.pdb
+C:\Users\Cecilia\Desktop\Entrega\TP1\LcBohorquezLab\TPCalculadora\bin\Debug\TPCalculadora.exe
+C:\Users\Cecilia\Desktop\Entrega\TP1\LcBohorquezLab\TPCalculadora\bin\Debug\TPCalculadora.pdb
+C:\Users\Cecilia\Desktop\Entrega\TP1\LcBohorquezLab\TPCalculadora\obj\Debug\TPCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Cecilia\Desktop\Entrega\TP1\LcBohorquezLab\TPCalculadora\obj\Debug\TPCalculadora.Form1.resources
+C:\Users\Cecilia\Desktop\Entrega\TP1\LcBohorquezLab\TPCalculadora\obj\Debug\TPCalculadora.Properties.Resources.resources
+C:\Users\Cecilia\Desktop\Entrega\TP1\LcBohorquezLab\TPCalculadora\obj\Debug\TPCalculadora.csproj.GenerateResource.Cache
+C:\Users\Cecilia\Desktop\TP1\LcBohorquezLab\TPCalculadora\bin\Debug\TPCalculadora.exe.config
+C:\Users\Cecilia\Desktop\TP1\LcBohorquezLab\TPCalculadora\bin\Debug\TPCalculadora.exe
+C:\Users\Cecilia\Desktop\TP1\LcBohorquezLab\TPCalculadora\bin\Debug\TPCalculadora.pdb
+C:\Users\Cecilia\Desktop\TP1\LcBohorquezLab\TPCalculadora\obj\Debug\TPCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Cecilia\Desktop\TP1\LcBohorquezLab\TPCalculadora\obj\Debug\TPCalculadora.Form1.resources
+C:\Users\Cecilia\Desktop\TP1\LcBohorquezLab\TPCalculadora\obj\Debug\TPCalculadora.Properties.Resources.resources
+C:\Users\Cecilia\Desktop\TP1\LcBohorquezLab\TPCalculadora\obj\Debug\TPCalculadora.csproj.GenerateResource.Cache
+C:\Users\Cecilia\Desktop\TP1\LcBohorquezLab\TPCalculadora\obj\Debug\TPCalculadora.exe
+C:\Users\Cecilia\Desktop\TP1\LcBohorquezLab\TPCalculadora\obj\Debug\TPCalculadora.pdb
+C:\Users\Cecilia\Desktop\TP1 2017\TP1\TPCalculadora\bin\Debug\TPCalculadora.exe.config
+C:\Users\Cecilia\Desktop\TP1 2017\TP1\TPCalculadora\bin\Debug\TPCalculadora.exe
+C:\Users\Cecilia\Desktop\TP1 2017\TP1\TPCalculadora\bin\Debug\TPCalculadora.pdb
+C:\Users\Cecilia\Desktop\TP1 2017\TP1\TPCalculadora\obj\Debug\TPCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Cecilia\Desktop\TP1 2017\TP1\TPCalculadora\obj\Debug\TPCalculadora.Form1.resources
+C:\Users\Cecilia\Desktop\TP1 2017\TP1\TPCalculadora\obj\Debug\TPCalculadora.Properties.Resources.resources
+C:\Users\Cecilia\Desktop\TP1 2017\TP1\TPCalculadora\obj\Debug\TPCalculadora.csproj.GenerateResource.Cache
+C:\Users\Cecilia\Desktop\TP1 2017\TP1\TPCalculadora\obj\Debug\TPCalculadora.exe
+C:\Users\Cecilia\Desktop\TP1 2017\TP1\TPCalculadora\obj\Debug\TPCalculadora.pdb
+C:\Users\Cecilia\Desktop\TP_Laboratorio\TP_LABORATORIO_2do\TP1\TPCalculadora\bin\Debug\TPCalculadora.exe.config
+C:\Users\Cecilia\Desktop\TP_Laboratorio\TP_LABORATORIO_2do\TP1\TPCalculadora\bin\Debug\TPCalculadora.exe
+C:\Users\Cecilia\Desktop\TP_Laboratorio\TP_LABORATORIO_2do\TP1\TPCalculadora\bin\Debug\TPCalculadora.pdb
+C:\Users\Cecilia\Desktop\TP_Laboratorio\TP_LABORATORIO_2do\TP1\TPCalculadora\obj\Debug\TPCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Cecilia\Desktop\TP_Laboratorio\TP_LABORATORIO_2do\TP1\TPCalculadora\obj\Debug\TPCalculadora.Form1.resources
+C:\Users\Cecilia\Desktop\TP_Laboratorio\TP_LABORATORIO_2do\TP1\TPCalculadora\obj\Debug\TPCalculadora.Properties.Resources.resources
+C:\Users\Cecilia\Desktop\TP_Laboratorio\TP_LABORATORIO_2do\TP1\TPCalculadora\obj\Debug\TPCalculadora.csproj.GenerateResource.Cache
+C:\Users\Cecilia\Desktop\TP_Laboratorio\TP_LABORATORIO_2do\TP1\TPCalculadora\obj\Debug\TPCalculadora.exe
+C:\Users\Cecilia\Desktop\TP_Laboratorio\TP_LABORATORIO_2do\TP1\TPCalculadora\obj\Debug\TPCalculadora.pdb
